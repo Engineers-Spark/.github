@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.facebook.com/engineers.spark" target="_blank" rel="noopener noreferrer">
-    <img width="500" src="https://raw.githubusercontent.com/Engineers-Spark/.github/main/profile/spark.png"/>
+    <img width="250" src="https://raw.githubusercontent.com/Engineers-Spark/.github/main/profile/spark.png"/>
   </a>
 </p>
 
