@@ -10,6 +10,6 @@ Engineers Spark is a Cybersecurity Student Club founded in 2014 at the [Higher I
 
 We are actively seeking sponsors for Engineers Spark, feel free to reach out for any collaborations!
 
-[engineers.spark.community@gmail.com](mailto:engineers.spark.community@gmail.com).
+[community@espark.tn](mailto:community@espark.tn).
 
 
